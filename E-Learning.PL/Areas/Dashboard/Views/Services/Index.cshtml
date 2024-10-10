@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ShowServicesVM>
+
+@section Header {
+    Our Services
+}
+
+<div class="col-md-9">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Our Services Table</h3>
+        </div>
+
+        <div class="card-body">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Status</th>
+                        <th>Operations</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   @foreach(var item in Model)
+                   {
+                       <tr>
+                           <td>@item.Name</td>
+                           <td>@item.IsDeleted</td>
+                           <td>
+                           <a asp-controller="Services" asp-action="Edit" asp-route-id="@item.Id" class="btn bg-gradient-secondary btn-m">Edit</a>
+                           <a asp-controller="Services" asp-action="Details" asp-route-id="@item.Id" class="btn bg-gradient-warning btn-m">Details</a>
+                           <a asp-controller="Services" asp-action="Delete" asp-route-id="@item.Id" class="btn bg-gradient-danger btn-m">Delete</a>
+                           </td>
+                       </tr>
+
+                   }
+                    
+                </tbody>
+            </table>
+        </div>
+
+        <div class="card-footer clearfix">
+            <ul class="pagination pagination-sm m-0 float-right">
+                <li class="page-item"><a class="page-link" href="#">«</a></li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">»</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+</div>

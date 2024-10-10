@@ -1,0 +1,15 @@
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\bin\Debug\net8.0\E-Learning.BLL.deps.json
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\bin\Debug\net8.0\E-Learning.BLL.dll
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\bin\Debug\net8.0\E-Learning.BLL.pdb
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\bin\Debug\net8.0\E-Learning.DAL.dll
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\bin\Debug\net8.0\E-Learning.DAL.pdb
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learni.A3CBC7E6.Up2Date
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.dll
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\refint\E-Learning.BLL.dll
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\E-Learning.BLL.pdb
+C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.BLL\obj\Debug\net8.0\ref\E-Learning.BLL.dll
