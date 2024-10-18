@@ -1,0 +1,1162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\services\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\services\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\showservicesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\showservicesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\shared\\_script.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\shared\\_script.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\showcoursesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\showcoursesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\courseformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\courseformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\serviceformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\serviceformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\teacherformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\teacherformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\categoryformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\categoryformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\categorydetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\categorydetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\showteachersvm .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\showteachersvm .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\teacherdetailsvm .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\teacherdetailsvm .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\coursedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\coursedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\helpers\\filessettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\helpers\\filessettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\e-learning.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\e-learning.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011163115_ImageNameColAndDeleteAnotherColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Learning.DAL\\Migrations\\20241011163115_ImageNameColAndDeleteAnotherColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011162119_ImageNameColAndDeleteAnotherColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Learning.DAL\\Migrations\\20241011162119_ImageNameColAndDeleteAnotherColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011074632_teachertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011074632_teachertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011090021_categorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011090021_categorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241010235356_coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241010235356_coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\areas\\dashboard\\viewmodels\\showcategoriesvm .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\areas\\dashboard\\viewmodels\\showcategoriesvm .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A33224B2-817D-47B4-B328-5F7B79D7A668}|E-Learning.PL\\E-Learning.PL.csproj|solutionrelative:e-learning.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241010235030_servicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241010235030_servicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241010235356_coursetable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241010235356_coursetable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\Migrations\\20241010234022_serviceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011113822_categorytablelast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011113822_categorytablelast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011112122_categorytablenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011112122_categorytablenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011163314_imagenamecolanddeleteanothercolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011163314_imagenamecolanddeleteanothercolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011214454_addimagecolforteachertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011214454_addimagecolforteachertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|c:\\users\\ibrah\\desktop\\important-projects\\knowledgeproject\\e-learning\\e-learning.dal\\migrations\\20241011214402_addimagecolforcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1E2F51-A27A-40A6-8ACE-BD7B3E75CC86}|E-Learning.DAL\\E-Learning.DAL.csproj|solutionrelative:e-learning.dal\\migrations\\20241011214402_addimagecolforcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Delete.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T07:49:42.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Edit.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T10:40:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Details.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T00:16:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Course.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Models\\Course.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:51:18.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:55:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowServicesVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowServicesVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowServicesVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowServicesVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowServicesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:01:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Create.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T23:57:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T00:26:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T11:04:39.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T00:08:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Teacher.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:27:34.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:58:13.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Models\\Service.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:02:28.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T11:12:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:13:40.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T11:49:01.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:33:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Details.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:52:50.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_script.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_script.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_script.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_script.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_script.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T11:51:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:11:32.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T23:56:24.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:31:13.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:27:12.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShowCoursesVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCoursesVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCoursesVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCoursesVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCoursesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:00:46.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseFormVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseFormVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseFormVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:58:55.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:54:59.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAF4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:01:00.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T00:16:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ServiceFormVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ServiceFormVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ServiceFormVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ServiceFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:58:24.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_head.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T11:51:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T10:19:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:57:37.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:57:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:10:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T10:17:11.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "datatables.bootstrap4.min.css",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css",
+              "RelativeDocumentMoniker": "E-Learning.PL\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css",
+              "RelativeToolTip": "E-Learning.PL\\wwwroot\\lib\\datatables\\css\\datatables.bootstrap4.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T23:36:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherFormVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherFormVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherFormVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:33:00.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryFormVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryFormVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryFormVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:04:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryDetailsVM.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryDetailsVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryDetailsVM.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CategoryDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:04:38.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShowTeachersVM .cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowTeachersVM .cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowTeachersVM .cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowTeachersVM .cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowTeachersVM .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:36:47.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TeacherDetailsVM .cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherDetailsVM .cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherDetailsVM .cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherDetailsVM .cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\TeacherDetailsVM .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:33:32.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:23:29.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseDetails.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseDetails.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseDetails.cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\CourseDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:00:59.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241011214454_addImageColForTeacherTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011214454_addImageColForTeacherTable.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011214454_addImageColForTeacherTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011214454_addImageColForTeacherTable.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011214454_addImageColForTeacherTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:44:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241011214402_addImageColForCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011214402_addImageColForCategoryTable.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011214402_addImageColForCategoryTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011214402_addImageColForCategoryTable.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011214402_addImageColForCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:44:02.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FilesSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Helpers\\FilesSettings.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Helpers\\FilesSettings.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Helpers\\FilesSettings.cs",
+              "RelativeToolTip": "E-Learning.PL\\Helpers\\FilesSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:00:56.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "E-Learning.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
+              "RelativeDocumentMoniker": "E-Learning.PL\\E-Learning.PL.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
+              "RelativeToolTip": "E-Learning.PL\\E-Learning.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T21:00:10.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T00:15:28.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20241011163314_ImageNameColAndDeleteAnotherColumn.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011163314_ImageNameColAndDeleteAnotherColumn.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011163314_ImageNameColAndDeleteAnotherColumn.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011163314_ImageNameColAndDeleteAnotherColumn.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011163314_ImageNameColAndDeleteAnotherColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:33:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241011163115_ImageNameColAndDeleteAnotherColumn.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011163115_ImageNameColAndDeleteAnotherColumn.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011163115_ImageNameColAndDeleteAnotherColumn.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011163115_ImageNameColAndDeleteAnotherColumn.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011163115_ImageNameColAndDeleteAnotherColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:31:15.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20241011162119_ImageNameColAndDeleteAnotherColumn.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011162119_ImageNameColAndDeleteAnotherColumn.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011162119_ImageNameColAndDeleteAnotherColumn.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011162119_ImageNameColAndDeleteAnotherColumn.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011162119_ImageNameColAndDeleteAnotherColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:21:19.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:23:01.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T10:01:25.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Delete.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Teachers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:51:50.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T10:01:42.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T09:58:58.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241011074632_teacherTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011074632_teacherTable.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011074632_teacherTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011074632_teacherTable.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011074632_teacherTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:46:32.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241011090021_categoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011090021_categoryTable.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011090021_categoryTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011090021_categoryTable.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011090021_categoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:00:21.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20241011113822_categoryTablelast.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011113822_categoryTablelast.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011113822_categoryTablelast.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011113822_categoryTablelast.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011113822_categoryTablelast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:38:22.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241010235356_courseTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241010235356_courseTable.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241010235356_courseTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241010235356_courseTable.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241010235356_courseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:53:57.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20241011112122_categoryTableNew.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011112122_categoryTableNew.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241011112122_categoryTableNew.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241011112122_categoryTableNew.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241011112122_categoryTableNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:21:22.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShowCategoriesVM .cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCategoriesVM .cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCategoriesVM .cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCategoriesVM .cs",
+              "RelativeToolTip": "E-Learning.PL\\Areas\\Dashboard\\ViewModels\\ShowCategoriesVM .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:03:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "E-Learning.PL\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:02:36.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Learning.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:17:02.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Learning.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\appsettings.json",
+              "RelativeToolTip": "E-Learning.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T23:38:20.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Program.cs",
+              "RelativeDocumentMoniker": "E-Learning.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\Program.cs",
+              "RelativeToolTip": "E-Learning.PL\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:38:17.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:22:44.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:45:27.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20241010235030_serviceTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241010235030_serviceTable.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241010235030_serviceTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241010235030_serviceTable.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241010235030_serviceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:50:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241010235356_courseTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241010235356_courseTable.Designer.cs",
+              "RelativeDocumentMoniker": "E-Learning.DAL\\Migrations\\20241010235356_courseTable.Designer.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\Migrations\\20241010235356_courseTable.Designer.cs",
+              "RelativeToolTip": "E-Learning.DAL\\Migrations\\20241010235356_courseTable.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:35:47.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20241010234022_serviceTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\Migrations\\20241010234022_serviceTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\Migrations\\20241010234022_serviceTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\Migrations\\20241010234022_serviceTable.cs",
+              "RelativeToolTip": "..\\..\\..\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\Migrations\\20241010234022_serviceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:40:22.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

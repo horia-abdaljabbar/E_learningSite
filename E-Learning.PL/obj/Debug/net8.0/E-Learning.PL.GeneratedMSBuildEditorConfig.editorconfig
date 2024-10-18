@@ -17,95 +17,159 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Learning.PL
 build_property.RootNamespace = E_Learning.PL
-build_property.ProjectDir = C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.PL\
+build_property.ProjectDir = C:\Users\ibrah\Desktop\important-projects\KnowledgeProject\E-Learning\E-Learning.PL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ibrah\Desktop\IBRAHEEM\IBRAHEEM\important-projects\E-Learning\E-Learning.PL
+build_property.MSBuildProjectDirectory = C:\Users\ibrah\Desktop\important-projects\KnowledgeProject\E-Learning\E-Learning.PL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Create.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvdXJzZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvdXJzZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvdXJzZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvdXJzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvdXJzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Delete.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Details.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Index.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_footer.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfZm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_head.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_head.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfaGVhZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_navbar.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfbmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_script.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_script.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfc2NyaXB0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_sidebar.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfc2lkZWJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/_ViewImports.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYWNoZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYWNoZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYWNoZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYWNoZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRlYWNoZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/_ViewStart.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/Home/Index.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/Home/Privacy.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/Shared/Error.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/_ViewImports.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/_ViewStart.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_Layout.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Areas/Dashboard/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-2z7b5q793n
 
-[C:/Users/ibrah/Desktop/IBRAHEEM/IBRAHEEM/important-projects/E-Learning/E-Learning.PL/Views/Shared/_Layout.cshtml]
+[C:/Users/ibrah/Desktop/important-projects/KnowledgeProject/E-Learning/E-Learning.PL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wo8m8wgrd9

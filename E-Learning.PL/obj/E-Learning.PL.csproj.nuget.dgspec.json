@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj": {}
+    "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj": {
+    "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj",
         "projectName": "E-Learning.BLL",
-        "projectPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj",
+        "projectPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\obj\\",
+        "outputPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj": {
-                "projectPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj"
+              "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj": {
+                "projectPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj": {
+    "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
         "projectName": "E-Learning.DAL",
-        "projectPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
+        "projectPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\obj\\",
+        "outputPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj": {
+    "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
         "projectName": "E-Learning.PL",
-        "projectPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
+        "projectPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.PL\\obj\\",
+        "outputPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj": {
-                "projectPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj"
+              "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj": {
+                "projectPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj"
               }
             }
           }

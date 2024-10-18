@@ -12,5 +12,10 @@ namespace E_Learning.DAL.Data
         }
 
         public DbSet<Service> Services { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<Teacher> Teachers { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
     }
 }

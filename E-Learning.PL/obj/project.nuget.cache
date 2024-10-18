@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z8YTcs7LjvA=",
+  "dgSpecHash": "RCRT6t8KFNU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\E-Learning.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

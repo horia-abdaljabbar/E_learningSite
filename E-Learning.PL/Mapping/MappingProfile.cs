@@ -9,9 +9,22 @@ namespace E_Learning.PL.Mapping
         public MappingProfile()
         {
             CreateMap<ServiceFormVM, Service>();
+            CreateMap<Service, ServiceFormVM>();
+
             CreateMap<Service,ShowServicesVM>();
             CreateMap<Service,ServiceDetailsVM>();
-
+            CreateMap<CourseFormVM, Course>();
+            CreateMap<Course, CourseFormVM>();
+            CreateMap<Course, ShowCoursesVM>();
+            CreateMap<Course, CourseDetails>();
+            CreateMap<TeacherFormVM, Teacher>();
+            CreateMap<Teacher, TeacherFormVM>();
+            CreateMap<Teacher, ShowTeachersVM>();
+            CreateMap<Teacher, TeacherDetailsVM>();
+            CreateMap<CategoryFormVM, Category>();
+            CreateMap<Category, CategoryFormVM>();
+            CreateMap<Category, ShowCategoriesVM>();
+            CreateMap<Category, CategoryDetailsVM>();
 
         }
     }

@@ -4218,11 +4218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
       "projectName": "E-Learning.DAL",
-      "projectPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
+      "projectPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\E-Learning.DAL.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.DAL\\obj\\",
+      "outputPath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",

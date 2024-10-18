@@ -5,7 +5,7 @@
 Services
 }
 
-<div class="col-md-9">
+<div class="col-md-9  m-auto w-50">
 
 <div class="card card-primary">
 <div class="card-header">
@@ -21,7 +21,7 @@ Services
 </div>
               <div class="form-group">
                     <label asp-for="Description">Service Description</label>
-                    <input asp-for="Description" class="form-control" placeholder="Enter Service Description">
+                    <input asp-for="Description" class="form-control textArea" placeholder="Enter Service Description">
                 </div>
 
 </div>
@@ -32,3 +32,22 @@ Services
 </form>
 </div>
 </div>
+
+@section script{
+    <script src="https://cdn.tiny.cloud/1/zl3lrct2ansrgx3yezgfs0tcv2jyontv13cqdrin798v34oh/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+ <script>
+        tinymce.init({
+            selector: '.textArea',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            plugins: [
+                // Core editing features
+                'anchor', 'autolink', 'charmap', 'codesample', 'emoticons', 'image', 'link', 'lists', 'media', 'searchreplace', 'table', 'visualblocks', 'wordcount',
+                // Your account includes a free trial of TinyMCE premium features
+                // Try the most popular premium features until Oct 27, 2024:
+                'checklist', 'mediaembed', 'casechange', 'export', 'formatpainter', 'pageembed', 'a11ychecker', 'tinymcespellchecker', 'permanentpen', 'powerpaste', 'advtable', 'advcode', 'editimage', 'advtemplate', 'ai', 'mentions', 'tinycomments', 'tableofcontents', 'footnotes', 'mergetags', 'autocorrect', 'typography', 'inlinecss', 'markdown',
+            ],
+        })
+ </script>
+}
+
+ 

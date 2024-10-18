@@ -1,0 +1,25 @@
+﻿@model ShowTeachersVM
+@section Header {
+    Delete Teacher...
+}
+
+<div class="col-md-9  m-auto w-50">
+
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title"> Delete @Model.Name </h3>
+        </div>
+        <div class="card-body">
+            <h3 class="danger"> are you sure to delete the @Model.Name </h3>
+        </div>
+
+        <div class="card-footer">
+            <form asp-controller="Teachers" asp-action="Delete" asp-route-id="@Model.Id">
+<button type="Submit" class="btn btn-danger">Delete</button>
+                <a asp-controller="Services" asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </form>
+        </div>
+
+
+    </div>
+</div>

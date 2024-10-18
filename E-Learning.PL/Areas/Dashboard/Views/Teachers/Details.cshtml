@@ -1,0 +1,49 @@
+﻿@model TeacherDetailsVM
+
+
+@section Header{
+    Teacher Details
+}
+
+
+<div class="col-md-9  m-auto w-50">
+
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">@Model.Name  Details</h3>
+        </div>
+        
+        <ol class="list-group list-group-numbered">
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Description</div>
+                    <span class="badge text-bg-primary rounded-pill">@Model.Field</span>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Description</div>
+                    <span class="badge text-bg-primary rounded-pill">@Model.Phone</span>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Description</div>
+                    <span class="badge text-bg-primary rounded-pill">@Model.Email</span>
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div class="ms-2 me-auto">
+                    <div class="fw-bold">Status</div>
+                    <span class="badge text-bg-primary rounded-pill">@(@Model.StillWorked? "Deleted":"Active") </span>
+
+                </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-start align-items-start">
+                Image: <img class="w-25" src="~/files/images/@Model.ImageName" />
+            </li>
+           
+        </ol>
+
+    </div>
+</div>

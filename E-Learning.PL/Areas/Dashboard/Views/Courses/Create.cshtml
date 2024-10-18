@@ -1,0 +1,80 @@
+﻿
+@model CourseFormVM
+
+
+@section Header {
+create Course ...
+}
+<div class="col-md-9  m-auto w-50">
+
+<div class="card card-primary">
+<div class="card-header">
+<h3 class="card-title">Create Course</h3>
+</div>
+
+
+<form asp-controller="Courses" asp-action="Create" enctype="multipart/form-data">
+<div class="card-body">
+<div class="form-group">
+<label asp-for="Name">Course Name</label>
+<input asp-for="Name" class="form-control" placeholder="Enter Course Name">
+</div>
+              <div class="form-group">
+                    <label asp-for="Description">Course Description</label>
+                    <input asp-for="Description" class="form-control textArea" placeholder="Enter Service Description">
+                </div>
+ 
+                <div class="form-group">
+                    <label asp-for="NumOfHour">Num Of Hours</label>
+                    <input asp-for="NumOfHour" class="form-control" placeholder="EnterNum Of Hours">
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Image"></label>
+                    <input asp-for="Image" class="form-control-file imageInput">
+                </div>
+                <div class="form-group">
+                    <img src="#" id="imagePreview" style="display:none;width:200px" />
+                </div>
+               
+
+</div>
+
+<div class="card-footer">
+<button type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
+</div>
+</div>
+
+@section script {
+    <script src="https://cdn.tiny.cloud/1/zl3lrct2ansrgx3yezgfs0tcv2jyontv13cqdrin798v34oh/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+
+    <script>
+        tinymce.init({
+            selector: '.textArea',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            plugins: [
+                // Core editing features
+                'anchor', 'autolink', 'charmap', 'codesample', 'emoticons', 'image', 'link', 'lists', 'media', 'searchreplace', 'table', 'visualblocks', 'wordcount',
+                // Your account includes a free trial of TinyMCE premium features
+                // Try the most popular premium features until Oct 27, 2024:
+                'checklist', 'mediaembed', 'casechange', 'export', 'formatpainter', 'pageembed', 'a11ychecker', 'tinymcespellchecker', 'permanentpen', 'powerpaste', 'advtable', 'advcode', 'editimage', 'advtemplate', 'ai', 'mentions', 'tinycomments', 'tableofcontents', 'footnotes', 'mergetags', 'autocorrect', 'typography', 'inlinecss', 'markdown',
+            ],
+        })
+        document.querySelector(".imageInput").addEventListener("change", (event) => {
+            const file=event.target.files[0];
+            const imagePreview = document.querySelector("#imagePreview");
+            if(file){
+                const reader =new FileReader();
+                reader.onload = function (e) {
+                    console.log("hhhhhh");
+                    imagePreview.src = e.target.result;
+                    imagePreview.style.display = "block";
+                }
+                reader.readAsDataURL(file);
+            }
+        })
+    </script>
+}
+

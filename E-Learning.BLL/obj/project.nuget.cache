@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igjDzXjh0U8=",
+  "dgSpecHash": "Y6FgYPK8y1E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\important-projects\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj",
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.BLL\\E-Learning.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

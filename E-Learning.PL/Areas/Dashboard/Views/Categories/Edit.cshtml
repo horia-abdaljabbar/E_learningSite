@@ -1,0 +1,67 @@
+﻿@model CategoryFormVM
+
+
+@section Header {
+Edit Categories ...
+}
+
+<div class="col-md-9  m-auto w-50">
+
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Edit Category</h3>
+        </div>
+
+
+        <form asp-controller="Categories" asp-action="Edit" asp-route-id="@Model.Id" enctype="multipart/form-data">
+            <div class="card-body">
+                <div class="form-group">
+                    <label asp-for="Name">Category Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Category Name">
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="NumOfCourses">Categories NumOfCourses</label>
+                    <input asp-for="NumOfCourses" class="form-control" placeholder="Enter Category Description">
+                </div>
+               
+                <div class="form-group">
+                    <label asp-for="IsFinished"></label>
+                    <input asp-for="IsFinished">
+                    <span>@(Model.IsFinished ? " yes" : " no")</span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Image"></label>
+                    <input asp-for="Image" class="form-control-file imageInput">
+                </div>
+                <div class="form-group">
+                    <img src="#" id="imagePreview" style="display:none;width:200px" />
+                </div>
+
+
+            </div>
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section script {
+    <script>
+        document.querySelector(".imageInput").addEventListener("change", (event) => {
+            const file = event.target.files[0];
+            const imagePreview = document.querySelector("#imagePreview");
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    console.log("hhhhhh");
+                    imagePreview.src = e.target.result;
+                    imagePreview.style.display = "block";
+                }
+                reader.readAsDataURL(file);
+            }
+        })
+    </script>
+}

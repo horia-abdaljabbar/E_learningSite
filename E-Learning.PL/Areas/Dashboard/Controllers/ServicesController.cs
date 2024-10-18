@@ -20,6 +20,8 @@ namespace E_Learning.PL.Areas.Dashboard.Controllers
         }
         public IActionResult Index()
         {
+            //ViewData["userName"] = "horia";
+            //ViewBag.Email = "hgdgjfs@gmail.com";
             var services = context.Services.ToList();
             var showServicesVM = mapper.Map<IEnumerable<ShowServicesVM>>(services);
             return View(showServicesVM);
@@ -61,8 +63,20 @@ namespace E_Learning.PL.Areas.Dashboard.Controllers
             return View(serviceM);
         }
 
-        [HttpGet]
-        public IActionResult Delete(int id)
+        //[HttpGet]
+        //public IActionResult Delete(int id)
+        //{
+        //    var service = context.Services.Find(id);
+        //    if (service is null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var serviceM = mapper.Map<ShowServicesVM>(service);
+        //    return View(serviceM);
+        //}
+
+        public IActionResult Edit(int id )
         {
             var service = context.Services.Find(id);
             if (service is null)
@@ -70,8 +84,28 @@ namespace E_Learning.PL.Areas.Dashboard.Controllers
                 return NotFound();
             }
 
-            var serviceM = mapper.Map<ShowServicesVM>(service);
+            var serviceM = mapper.Map<ServiceFormVM>(service);
             return View(serviceM);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+
+        public IActionResult Edit(ServiceFormVM viewModel)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(viewModel);
+            }
+            var service = context.Services.Find(viewModel.Id);
+            if (service is null)
+            {
+                return NotFound();
+            }
+
+            var serviceM = mapper.Map(viewModel,service);
+            context.SaveChanges();
+            return RedirectToAction(nameof(Index));
         }
 
 
