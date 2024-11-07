@@ -1,0 +1,15 @@
+﻿@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+
+.arrow {
+    width: 40px;
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+}
+.home {
+    width: 30px;
+
+}
+
+

@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\E-Learning.PL.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\css\\Auth.css",
+      "PackagePath": "staticwebassets\\css\\Auth.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\css\\styleSimple.css",
+      "PackagePath": "staticwebassets\\css\\styleSimple.css"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\dashboard\\css\\adminlte.css",
@@ -8269,16 +8281,12 @@
       "PackagePath": "staticwebassets\\files\\images\\15bb7040-3776-40d9-9c5d-d905a84a3447amman.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\198b7938-a857-4d66-93c7-94f40294cebfaqaba.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\198b7938-a857-4d66-93c7-94f40294cebfaqaba.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\1ac7051c-6f79-43b9-aba2-1c262dbd043c1.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\1ac7051c-6f79-43b9-aba2-1c262dbd043c1.jpg"
-    },
-    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\1c65621f-3aa7-44cf-a14d-458e230483adamman.jpg",
       "PackagePath": "staticwebassets\\files\\images\\1c65621f-3aa7-44cf-a14d-458e230483adamman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\1d115bbc-46ae-45cd-ae0e-cc50207b778acat-2.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\1d115bbc-46ae-45cd-ae0e-cc50207b778acat-2.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\1ee810d2-684d-4225-adec-39a78e7541152.jpg",
@@ -8289,8 +8297,16 @@
       "PackagePath": "staticwebassets\\files\\images\\295f4362-ce15-4dc4-8a25-eb5e07576fae1.jpg"
     },
     {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\2b953b6d-8271-4eb9-8847-5f54b895a311course-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\2b953b6d-8271-4eb9-8847-5f54b895a311course-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\2bb88ab5-0248-4ace-9d54-3d32aa56175daqaba.jpg",
       "PackagePath": "staticwebassets\\files\\images\\2bb88ab5-0248-4ace-9d54-3d32aa56175daqaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\33678561-a5b5-4f18-8fb1-d7e0e65aa37fcat-3.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\33678561-a5b5-4f18-8fb1-d7e0e65aa37fcat-3.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\34dc6581-d5f7-4c5a-bdf3-d57d8c64116a2.jpg",
@@ -8301,12 +8317,12 @@
       "PackagePath": "staticwebassets\\files\\images\\36431802-0ec9-4e1b-acb2-6e6bd761f1892.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\3a18a64f-51f2-4e0c-bbe2-a9173235ce162.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\3a18a64f-51f2-4e0c-bbe2-a9173235ce162.jpg"
-    },
-    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\3b8c8901-f801-4337-8f07-9c9fcfc3c3e1aqaba.jpg",
       "PackagePath": "staticwebassets\\files\\images\\3b8c8901-f801-4337-8f07-9c9fcfc3c3e1aqaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\3bfdb8e3-985d-49ac-b530-0c6645735f9dcat-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\3bfdb8e3-985d-49ac-b530-0c6645735f9dcat-1.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\3f7ccf11-0598-41da-92a3-9e0e09d8db3camman.jpg",
@@ -8365,12 +8381,12 @@
       "PackagePath": "staticwebassets\\files\\images\\820462e4-f6ea-4059-9ee0-45ae4e4dba2a1.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\82ab3581-9f33-4f6b-a612-268fdecd28abaqaba.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\82ab3581-9f33-4f6b-a612-268fdecd28abaqaba.jpg"
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\82699182-9757-469d-93fa-4d138611ce0dcourse-2.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\82699182-9757-469d-93fa-4d138611ce0dcourse-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\83a06635-5790-40d1-8e22-29b42ab08d3baqaba.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\83a06635-5790-40d1-8e22-29b42ab08d3baqaba.jpg"
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\82ab3581-9f33-4f6b-a612-268fdecd28abaqaba.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\82ab3581-9f33-4f6b-a612-268fdecd28abaqaba.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\8c9e1e9f-32bd-4a50-8672-8d9881969402aqaba.jpg",
@@ -8385,16 +8401,20 @@
       "PackagePath": "staticwebassets\\files\\images\\92fb366b-b3a5-47c7-a7c7-94af2190e864aqaba.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\94d15f54-3261-4bc8-9ab5-d7f5927d056baqaba.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\94d15f54-3261-4bc8-9ab5-d7f5927d056baqaba.jpg"
-    },
-    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\9a63bc36-184a-42cd-9973-4e270b878ca4aqaba.jpg",
       "PackagePath": "staticwebassets\\files\\images\\9a63bc36-184a-42cd-9973-4e270b878ca4aqaba.jpg"
     },
     {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\9af95ce6-b438-4541-8b39-ff8973481e2dteam-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\9af95ce6-b438-4541-8b39-ff8973481e2dteam-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\9d93c988-59fe-4f8d-b04c-a44c35b0aebeaqaba.jpg",
       "PackagePath": "staticwebassets\\files\\images\\9d93c988-59fe-4f8d-b04c-a44c35b0aebeaqaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\9dc24930-e8f7-48ba-bbb5-6715d494dd31course-2.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\9dc24930-e8f7-48ba-bbb5-6715d494dd31course-2.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\9e618ddf-5822-4eb4-bdee-a8d5038de4d32.jpg",
@@ -8411,6 +8431,10 @@
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\a7ef1eee-aa45-4d14-96de-e41fe74810a6aqaba.jpg",
       "PackagePath": "staticwebassets\\files\\images\\a7ef1eee-aa45-4d14-96de-e41fe74810a6aqaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\b2eaf78f-9ef2-45ba-9a0b-8b5e5a433f49testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\b2eaf78f-9ef2-45ba-9a0b-8b5e5a433f49testimonial-2.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\b5fd6b77-80d3-4230-9293-5cc73ed68721amman.jpg",
@@ -8437,10 +8461,6 @@
       "PackagePath": "staticwebassets\\files\\images\\c09b1cc7-9909-4439-a0d8-8768fd0eb87damman.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\c24ae75d-d052-4531-b25d-034d6ff952341.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\c24ae75d-d052-4531-b25d-034d6ff952341.jpg"
-    },
-    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\c55922df-93ec-46d1-99d9-aee49cdcbce3amman.jpg",
       "PackagePath": "staticwebassets\\files\\images\\c55922df-93ec-46d1-99d9-aee49cdcbce3amman.jpg"
     },
@@ -8457,6 +8477,14 @@
       "PackagePath": "staticwebassets\\files\\images\\ca128efd-80b4-4903-a103-de6d92cd1a121.jpg"
     },
     {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\cae778dd-6c51-4e89-b857-886d5aab8ae7course-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\cae778dd-6c51-4e89-b857-886d5aab8ae7course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\cb45791a-bbe4-45ca-88d8-7e04b9e02b4bteam-3.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\cb45791a-bbe4-45ca-88d8-7e04b9e02b4bteam-3.jpg"
+    },
+    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\cda8ab99-f53e-405f-bd77-6efed23dfbbbamman.jpg",
       "PackagePath": "staticwebassets\\files\\images\\cda8ab99-f53e-405f-bd77-6efed23dfbbbamman.jpg"
     },
@@ -8469,6 +8497,10 @@
       "PackagePath": "staticwebassets\\files\\images\\d0b85e1a-5785-4c3e-9803-2a1ae058c59f1.jpg"
     },
     {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\d2d174c6-3dbe-4c0e-819b-60fcc143dc1bcat-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\d2d174c6-3dbe-4c0e-819b-60fcc143dc1bcat-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\d3ccd974-64c7-4fca-8aef-4d6e759e3bbbamman.jpg",
       "PackagePath": "staticwebassets\\files\\images\\d3ccd974-64c7-4fca-8aef-4d6e759e3bbbamman.jpg"
     },
@@ -8477,24 +8509,20 @@
       "PackagePath": "staticwebassets\\files\\images\\d620dc7c-f2ae-41ed-a86a-831e9a62bf54amman.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\d7160fc4-7d6e-4367-8f55-65a01a0e4a132.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\d7160fc4-7d6e-4367-8f55-65a01a0e4a132.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\d7bc0608-2857-4a80-a955-7341d77d1662aqaba.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\d7bc0608-2857-4a80-a955-7341d77d1662aqaba.jpg"
-    },
-    {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\da3c924f-a517-4098-b790-c947123245c41.jpg",
       "PackagePath": "staticwebassets\\files\\images\\da3c924f-a517-4098-b790-c947123245c41.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\e3258359-cab4-4682-8f43-d6cc017760f5amman.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\e3258359-cab4-4682-8f43-d6cc017760f5amman.jpg"
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\f139a78d-cb0f-4966-9e7b-ade09a92fe1cteam-3.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\f139a78d-cb0f-4966-9e7b-ade09a92fe1cteam-3.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\f1a08871-8d7e-4355-9944-366fe7a58099alexandria.jpg",
       "PackagePath": "staticwebassets\\files\\images\\f1a08871-8d7e-4355-9944-366fe7a58099alexandria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\f41f44be-7475-4663-9184-009c7fa1d9f7course-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\f41f44be-7475-4663-9184-009c7fa1d9f7course-1.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\f55a7d04-b86c-45b0-b5c0-c8d33b04887fCairo.JPG",
@@ -8505,12 +8533,560 @@
       "PackagePath": "staticwebassets\\files\\images\\f5ea29ad-15ab-4817-ad48-6184ed7d577faqaba.jpg"
     },
     {
-      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\fc39098e-e442-4921-a5f3-acc4b621422faqaba.jpg",
-      "PackagePath": "staticwebassets\\files\\images\\fc39098e-e442-4921-a5f3-acc4b621422faqaba.jpg"
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\f7f34124-21f4-4c03-874d-9344397ca795cat-1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\f7f34124-21f4-4c03-874d-9344397ca795cat-1.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\files\\images\\fdc3c9e8-4b92-4e85-8379-ac3c2ed87060aqaba.jpg",
       "PackagePath": "staticwebassets\\files\\images\\fdc3c9e8-4b92-4e85-8379-ac3c2ed87060aqaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\homePage\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\css\\style.css",
+      "PackagePath": "staticwebassets\\homePage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\Back1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\Back1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\Back2.jpeg",
+      "PackagePath": "staticwebassets\\homePage\\img\\Back2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\Back3.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\Back3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\Back4.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\Back4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\p1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\homePage\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\js\\main.js",
+      "PackagePath": "staticwebassets\\homePage\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\homePage\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\homePage\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\homePage\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\homePage\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\Forget.jpg",
+      "PackagePath": "staticwebassets\\imageAccount\\Forget.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\ForgetPassword.jpg",
+      "PackagePath": "staticwebassets\\imageAccount\\ForgetPassword.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\Login.png",
+      "PackagePath": "staticwebassets\\imageAccount\\Login.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\Register.jpg",
+      "PackagePath": "staticwebassets\\imageAccount\\Register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\RegisterNew.png",
+      "PackagePath": "staticwebassets\\imageAccount\\RegisterNew.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\arrow.svg",
+      "PackagePath": "staticwebassets\\imageAccount\\arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\home.png",
+      "PackagePath": "staticwebassets\\imageAccount\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\reset.png",
+      "PackagePath": "staticwebassets\\imageAccount\\reset.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\imageAccount\\signin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\imageAccount\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\imageAccount\\signup-image.jpg"
     },
     {
       "Id": "C:\\Users\\ibrah\\Desktop\\important-projects\\KnowledgeProject\\E-Learning\\E-Learning.PL\\wwwroot\\js\\site.js",

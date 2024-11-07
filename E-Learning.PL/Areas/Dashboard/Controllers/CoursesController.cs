@@ -3,12 +3,13 @@ using E_Learning.DAL.Data;
 using E_Learning.DAL.Models;
 using E_Learning.PL.Areas.Dashboard.ViewModels;
 using E_Learning.PL.Helpers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_Learning.PL.Areas.Dashboard.Controllers
 {
+    [Authorize(Roles = "Admin,superAdmin")]
     [Area("Dashboard")]
-
     public class CoursesController : Controller
     {
         private readonly ApplicationDbContext context;

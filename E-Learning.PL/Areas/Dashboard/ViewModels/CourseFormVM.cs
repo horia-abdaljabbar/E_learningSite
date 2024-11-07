@@ -8,6 +8,7 @@
         public string? ImageName { get; set; }
         public string Description { get; set; }
         public bool IsFinished { get; set; }
+        public int NumOfStudents { get; set; }
 
         public int NumOfHour { get; set; }
     }

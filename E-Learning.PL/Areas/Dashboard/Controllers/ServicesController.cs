@@ -2,10 +2,12 @@
 using E_Learning.DAL.Data;
 using E_Learning.DAL.Models;
 using E_Learning.PL.Areas.Dashboard.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_Learning.PL.Areas.Dashboard.Controllers
 {
+    [Authorize(Roles = "Admin,superAdmin")]
     [Area("Dashboard")]
 
     public class ServicesController : Controller
@@ -63,18 +65,18 @@ namespace E_Learning.PL.Areas.Dashboard.Controllers
             return View(serviceM);
         }
 
-        //[HttpGet]
-        //public IActionResult Delete(int id)
-        //{
-        //    var service = context.Services.Find(id);
-        //    if (service is null)
-        //    {
-        //        return NotFound();
-        //    }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var service = context.Services.Find(id);
+            if (service is null)
+            {
+                return NotFound();
+            }
 
-        //    var serviceM = mapper.Map<ShowServicesVM>(service);
-        //    return View(serviceM);
-        //}
+            var serviceM = mapper.Map<ShowServicesVM>(service);
+            return View(serviceM);
+        }
 
         public IActionResult Edit(int id )
         {
